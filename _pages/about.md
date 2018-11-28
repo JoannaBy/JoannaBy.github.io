@@ -12,7 +12,7 @@ news: true
 social: true
 ---
 
-I'm a full-time researcher at the Institute of Polish Language, Polish Academy of Sciences, where I work in Foundations of Computational Stylistics project. I'm also a PhD student at the same Institute, and my research focuses on cross-lingual computational stylistics and advancing stylometry methodology and its understanding, especially locating method limitations and developing evaluation procedures. 
+I'm a full-time researcher at the Institute of Polish Language, Polish Academy of Sciences, where I work in *[Foundations of Computational Stylistics](https://computationalstylistics.github.io/projects/focs/)* project. I'm also a PhD student at the same Institute, and my research focuses on cross-lingual computational stylistics and advancing stylometry methodology and its understanding, especially locating method limitations and developing evaluation procedures. 
 
 Apart from computational stylistics my interests include discourse analysis and sociolinguistics. I've been researching authorship of television (=collaborative) works, looking to enhance Distant Reading of audiovisual works. 
 
