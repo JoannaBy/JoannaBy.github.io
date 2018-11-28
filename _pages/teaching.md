@@ -5,7 +5,6 @@ title: teaching
 description: Some tutoring materials.
 ---
 
-
 ## Materials from my workshops
 
 ### Galway Distant Reading Methods and Tools workshop
@@ -20,7 +19,6 @@ Notes and materials from 2018 course [here](https://github.com/JoannaBy/DHSI-Sty
 
 ## Stylo
 If you're looking for general stylo how-tos, please see the website of Computational Stylistics Group for [a brief introduction to stylo and gephi](https://computationalstylistics.github.io/stylo_nutshell/) or [more advanced instructions](https://computationalstylistics.github.io/). 
-
 
 Go ahead and ask me if you have any questions!
 
