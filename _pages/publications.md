@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: to be extended soon!
+title: Research
+description: Publications and talks.
 ---
 ## Publications
 ### Papers
