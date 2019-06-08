@@ -14,7 +14,7 @@ description: Publications and talks.
 
 ## Conference talks (selection):
 Upcoming:
-* "Attribution of Authorship for Medieval Persian Quasidas with Stylometry” with Alexey Khismatulin (Institute of Oriental Manuscripts, Russian Academy of Sciences), #Right2Left Workshop, 8 VI 2019, Victoria BC.
+* "Attribution of Authorship for Medieval Persian Quasidas with Stylometry” with Alexey Khismatulin (Institute of Oriental Manuscripts, Russian Academy of Sciences), #Right2Left Workshop, 8 VI 2019, Victoria BC. [link to presentation](https://github.com/JoannaBy/various_presentations/blob/master/Attribution%20of%20Authorship%20for%20Medieval%20Persian%20Quasidas%20with%20Stylometry.pdf)
 * "Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina" with Laura Hernandez Lorenzo (Universidad de Sevilla), DH 2019, 9-12 VII 2019, Utrecht.
 * "Feature Selection in Authorship Attribution: Ordering the Wordlist" with Maciej Eder, DH 2019, 9-12 VII 2019, Utrecht.
 * "Identifying Similarities in Text Analysis: Hierarchical Clustering (Linkage) versus Network Clustering (Community Detection)" with Jeremi K. Ochab, Maciej Eder and Steffen Pielström (University of Würzburg), DH 2019, 9-12 VII 2019, Utrecht.
