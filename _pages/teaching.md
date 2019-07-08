@@ -14,6 +14,8 @@ Materials for the Distant Reading Training School 2018, Workshop 1: Methods and 
 Notes and materials from HSE DH School 2018 [here](https://github.com/JoannaBy/HSE-Stylometry).  
 
 ### DHSI "Stylometry with R" course
+Notes and materials for 2019 course [here](https://github.com/JoannaBy/DHSI2019-Stylometry).
+  
 Notes and materials from 2018 course [here](https://github.com/JoannaBy/DHSI-Stylometry).  
 
 
