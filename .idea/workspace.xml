@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f2c0d189-7b5d-48d3-81d5-8d6b0a6612e4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/_sass/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_projects.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/tv-set.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/tv-set.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="_projects.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/_projects.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="432">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -183,8 +184,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_projects.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="432">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
