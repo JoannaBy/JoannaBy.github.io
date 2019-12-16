@@ -13,12 +13,11 @@ description: Publications and talks.
 * Byszuk, J. Tracing Showrunners’ Impact. Book of Abstracts AIUCD 2018. 190-192.
 
 ## Conference talks (selection):
-Upcoming:
+Past:
+* "AI in Computational Linguistics and Humanities", Giersch Symposium "AI for Science", 18-22 XI 2019, Frankfurt am Main.
 * "Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina" with Laura Hernandez Lorenzo (Universidad de Sevilla), DH 2019, 9-12 VII 2019, Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0576.html), [Repository with code and extra materials](https://github.com/JoannaBy/La-Segunda-Celestina)).
 * "Feature Selection in Authorship Attribution: Ordering the Wordlist" with Maciej Eder, DH 2019, 9-12 VII 2019, Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0930.html))
 * "Identifying Similarities in Text Analysis: Hierarchical Clustering (Linkage) versus Network Clustering (Community Detection)" with Jeremi K. Ochab, Maciej Eder and Steffen Pielström (University of Würzburg), DH 2019, 9-12 VII 2019, Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0981.html), [Repository with code and extra materials](https://github.com/JoannaBy/hierarchical-vs-network-clustering)).
-  
-Past:  
 * "Attribution of Authorship for Medieval Persian Quasidas with Stylometry” with Alexey Khismatulin (Institute of Oriental Manuscripts, Russian Academy of Sciences), #Right2Left Workshop, 8 VI 2019, Victoria BC. [link to presentation](https://github.com/JoannaBy/various_presentations/blob/master/Attribution%20of%20Authorship%20for%20Medieval%20Persian%20Quasidas%20with%20Stylometry.pdf)
 * "Older language learner: a comparative corpus study of FL performance and learning materials", poster with Karolina Czopek (Uniwersytet Warszawski), 4th CLARe Conference, 28 II - 2 III 2019, Helsinki.
 * "Enhanced digital editions: retrieving POS tags from pre-digital word indexes", EADH Conference, 7-9 XII 2018, Galway. [Link to presentation](https://github.com/JoannaBy/various_presentations/blob/master/EADH2018_Enhanced_digital_editions-retrieving_POS_tags_from_pre-digital_word_indexes.pdf)
