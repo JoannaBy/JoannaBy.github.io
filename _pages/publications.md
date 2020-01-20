@@ -9,6 +9,7 @@ description: Publications and talks.
 * Franzini, G., Kestemont, M., Rotari, G., Jander, M., Ochab, J. K., Franzini, E., Byszuk, J., Rybicki, J. Attributing Authorship in the Noisy Digitized Correspondence of Jacob and Wilhelm Grimm. Frontiers in Digital Humanities, 5. 2018. https://doi.org/10.3389/fdigh.2018.00004
   
 ### Other
+* A book review of [Reading beyond the female: The relationship between perception of author gender and literary quality](https://socjolingwistyka.ijp.pan.pl/index.php/SOCJO/article/view/55/95) in Socjolingiwistyka, 33. 2019.
 * blog post: [Using ‘Stylo’ with languages other than English](https://computationalstylistics.github.io/blog/stylo_and_languages/)  
 * Byszuk, J. Tracing Showrunners’ Impact. Book of Abstracts AIUCD 2018. 190-192.
 
