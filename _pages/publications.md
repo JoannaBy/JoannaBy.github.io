@@ -9,10 +9,10 @@ description: Publications and talks.
 * Franzini, G., Kestemont, M., Rotari, G., Jander, M., Ochab, J. K., Franzini, E., Byszuk, J., Rybicki, J. Attributing Authorship in the Noisy Digitized Correspondence of Jacob and Wilhelm Grimm. Frontiers in Digital Humanities, 5. 2018. https://doi.org/10.3389/fdigh.2018.00004
   
 ### Other
-* A book review of [Reading beyond the female: The relationship between perception of author gender and literary quality](https://socjolingwistyka.ijp.pan.pl/index.php/SOCJO/article/view/55/95) in Socjolingiwistyka, 33. 2019.
+* A book review of Reading beyond the female: The relationship between perception of author gender and literary quality. In Socjolingiwistyka, 33. 2019. [(online)](https://socjolingwistyka.ijp.pan.pl/index.php/SOCJO/article/view/55/95)
 * Hernandez Lorenzo, L., Byszuk, J. Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina. In Digital Humanities 2019: Book of Abstracts. University of Utrecht.
 * Eder M., Byszuk, J. Feature Selection in Authorship Attribution: Ordering the Wordlist. In Digital Humanities 2019: Book of Abstracts. University of Utrecht.
-* Ochab, J.K., Byszuk, J., Pielström, S. and Eder, M. Identifying Similarities in Text Analysis: Hierarchical Clustering (Linkage) versus Network Clustering (Community Detection). In Digital Humanities 2019: Book of Abstracts. University of Utrecht. Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0981.html), [Repository with code and extra materials](https://github.com/JoannaBy/hierarchical-vs-network-clustering)).
+* Ochab, J.K., Byszuk, J., Pielström, S. and Eder, M. Identifying Similarities in Text Analysis: Hierarchical Clustering (Linkage) versus Network Clustering (Community Detection). In Digital Humanities 2019: Book of Abstracts. University of Utrecht. Utrecht.
 * blog post: [Using ‘Stylo’ with languages other than English](https://computationalstylistics.github.io/blog/stylo_and_languages/)  
 * Byszuk, J. Tracing Showrunners’ Impact. Book of Abstracts AIUCD 2018. 190-192.
 
