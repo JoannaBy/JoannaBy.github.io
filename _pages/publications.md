@@ -10,6 +10,9 @@ description: Publications and talks.
   
 ### Other
 * A book review of [Reading beyond the female: The relationship between perception of author gender and literary quality](https://socjolingwistyka.ijp.pan.pl/index.php/SOCJO/article/view/55/95) in Socjolingiwistyka, 33. 2019.
+* Hernandez Lorenzo, L., Byszuk, J. Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina. In Digital Humanities 2019: Book of Abstracts. University of Utrecht.
+* Eder M., Byszuk, J. Feature Selection in Authorship Attribution: Ordering the Wordlist. In Digital Humanities 2019: Book of Abstracts. University of Utrecht.
+* Ochab, J.K., Byszuk, J., Pielström, S. and Eder, M. Identifying Similarities in Text Analysis: Hierarchical Clustering (Linkage) versus Network Clustering (Community Detection). In Digital Humanities 2019: Book of Abstracts. University of Utrecht. Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0981.html), [Repository with code and extra materials](https://github.com/JoannaBy/hierarchical-vs-network-clustering)).
 * blog post: [Using ‘Stylo’ with languages other than English](https://computationalstylistics.github.io/blog/stylo_and_languages/)  
 * Byszuk, J. Tracing Showrunners’ Impact. Book of Abstracts AIUCD 2018. 190-192.
 
