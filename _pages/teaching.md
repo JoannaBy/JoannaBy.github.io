@@ -7,6 +7,10 @@ description: Some tutoring materials.
 
 ## Materials from my workshops
 
+### Materials from Malaga workshop
+The “Identifying Direct Speech using Deep Learning” workshop presenting possibilities of using BERT language model in various NLP tasks, with specific focus on automatic annotation of direct speech in diverse multilingual session.
+[here](https://docs.google.com/presentation/d/1jlENADuXeM9s5whAtJuC5LhC4kr4BqGIhZf-dz0eSxE/edit?usp=sharing)
+
 ### Galway Distant Reading Methods and Tools workshop
 Materials for the Distant Reading Training School 2018, Workshop 1: Methods and Tools of Distant Reading Adapted to Multiple European Languages [here](https://github.com/JoannaBy/Stylo-in-Galway).  
 
