@@ -6,6 +6,8 @@ description: Publications and talks.
 ---
 ## Publications
 ### Papers
+* Byszuk, J. (forthcoming) The Voices of Doctor Who – how stylometry can be useful in revealing new information about TV series. Digital Humanities Quarterly.
+* Byszuk, J., Woźniak, M., Kestemont, M., Leśniak, A., Łukasik, W., Šeļa, A. and Eder, M. (2020). Detecting direct speech in multilingual collection of 19th century novels. In _LREC 2020_. [available here pp. 100-104](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf)
 * Franzini, G., Kestemont, M., Rotari, G., Jander, M., Ochab, J. K., Franzini, E., Byszuk, J., Rybicki, J. Attributing Authorship in the Noisy Digitized Correspondence of Jacob and Wilhelm Grimm. Frontiers in Digital Humanities, 5. 2018. https://doi.org/10.3389/fdigh.2018.00004
   
 ### Other
@@ -16,9 +18,11 @@ description: Publications and talks.
 * blog post: [Using ‘Stylo’ with languages other than English](https://computationalstylistics.github.io/blog/stylo_and_languages/)  
 * Byszuk, J. Tracing Showrunners’ Impact. Book of Abstracts AIUCD 2018. 190-192.
 
-## Conference talks (selection):
-Past:
+## Invited talks
+* "Stylometry in textual analysis and beyond", Colloquium in Digital Cultural Heritage, 22 I 2020, Köln.
 * "AI in Computational Linguistics and Humanities", Giersch Symposium "AI for Science", 18-22 XI 2019, Frankfurt am Main.
+  
+## Peer-reviewed conference talks (selection):
 * "Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina" with Laura Hernandez Lorenzo (Universidad de Sevilla), DH 2019, 9-12 VII 2019, Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0576.html), [Repository with code and extra materials](https://github.com/JoannaBy/La-Segunda-Celestina)).
 * "Feature Selection in Authorship Attribution: Ordering the Wordlist" with Maciej Eder, DH 2019, 9-12 VII 2019, Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0930.html))
 * "Identifying Similarities in Text Analysis: Hierarchical Clustering (Linkage) versus Network Clustering (Community Detection)" with Jeremi K. Ochab, Maciej Eder and Steffen Pielström (University of Würzburg), DH 2019, 9-12 VII 2019, Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0981.html), [Repository with code and extra materials](https://github.com/JoannaBy/hierarchical-vs-network-clustering)).
