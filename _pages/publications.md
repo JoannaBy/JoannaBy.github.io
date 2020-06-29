@@ -18,11 +18,12 @@ description: Publications and talks.
 * blog post: [Using ‘Stylo’ with languages other than English](https://computationalstylistics.github.io/blog/stylo_and_languages/)  
 * Byszuk, J. Tracing Showrunners’ Impact. Book of Abstracts AIUCD 2018. 190-192.
 
-## Invited talks
+## Talks
+### Invited talks
 * "Stylometry in textual analysis and beyond", Colloquium in Digital Cultural Heritage, 22 I 2020, Köln.
 * "AI in Computational Linguistics and Humanities", Giersch Symposium "AI for Science", 18-22 XI 2019, Frankfurt am Main.
   
-## Peer-reviewed conference talks (selection):
+### Peer-reviewed conference talks (selection):
 * "Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina" with Laura Hernandez Lorenzo (Universidad de Sevilla), DH 2019, 9-12 VII 2019, Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0576.html), [Repository with code and extra materials](https://github.com/JoannaBy/La-Segunda-Celestina)).
 * "Feature Selection in Authorship Attribution: Ordering the Wordlist" with Maciej Eder, DH 2019, 9-12 VII 2019, Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0930.html))
 * "Identifying Similarities in Text Analysis: Hierarchical Clustering (Linkage) versus Network Clustering (Community Detection)" with Jeremi K. Ochab, Maciej Eder and Steffen Pielström (University of Würzburg), DH 2019, 9-12 VII 2019, Utrecht. ([Abstract](https://dev.clariah.nl/files/dh2019/boa/0981.html), [Repository with code and extra materials](https://github.com/JoannaBy/hierarchical-vs-network-clustering)).
