@@ -11,6 +11,7 @@ description: Publications and talks.
 * Franzini, G., Kestemont, M., Rotari, G., Jander, M., Ochab, J. K., Franzini, E., Byszuk, J., Rybicki, J. Attributing Authorship in the Noisy Digitized Correspondence of Jacob and Wilhelm Grimm. Frontiers in Digital Humanities, 5. 2018. https://doi.org/10.3389/fdigh.2018.00004
   
 ### Other
+* Byszuk, J. "Stylometry Expertise Conclusion: Assessing authorship of an anonymous Persian qasida" in: Khismatulin, A. "Amir Mu‘izzi Nishapuri. The Siyasat-nama/Siyar al-muluk: A Fabrication Ascribed to Nizam al-Mulk". The series: THE PERSIAN MIRRORS FOR PRINCES WRITTEN IN THE SALJUQ PERIOD: ORIGINALS AND FABRICATIONS (I). St. Petersburg: Peterburgskoe Vostokovedenie; Moscow: Sadra, 2020. pp. 176-178 [online access: Stylometry Expertise Conclusion on Assessing authorship of an anonymous Persian qasida](https://ijp.pan.pl/wp-content/uploads/2018/08/Byszuk-Stylometry-Expertise-Conclusion-on-Assessing-authorship-of-an-anonymous-Persian-qasida.pdf)
 * A book review of Reading beyond the female: The relationship between perception of author gender and literary quality. In Socjolingiwistyka, 33. 2019. [(online)](https://socjolingwistyka.ijp.pan.pl/index.php/SOCJO/article/view/55/95)
 * Hernandez Lorenzo, L., Byszuk, J. Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina. In Digital Humanities 2019: Book of Abstracts. University of Utrecht.
 * Eder M., Byszuk, J. Feature Selection in Authorship Attribution: Ordering the Wordlist. In Digital Humanities 2019: Book of Abstracts. University of Utrecht.
