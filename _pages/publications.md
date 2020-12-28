@@ -6,9 +6,9 @@ description: Publications and talks.
 ---
 ## Publications
 ### Papers
-* Byszuk, J. (forthcoming) The Voices of Doctor Who – how stylometry can be useful in revealing new information about TV series. Digital Humanities Quarterly.
-* Byszuk, J., Woźniak, M., Kestemont, M., Leśniak, A., Łukasik, W., Šeļa, A. and Eder, M. (2020). Detecting direct speech in multilingual collection of 19th century novels. In _LREC 2020_. [available here pp. 100-104](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf)
-* Franzini, G., Kestemont, M., Rotari, G., Jander, M., Ochab, J. K., Franzini, E., Byszuk, J., Rybicki, J. Attributing Authorship in the Noisy Digitized Correspondence of Jacob and Wilhelm Grimm. Frontiers in Digital Humanities, 5. 2018. https://doi.org/10.3389/fdigh.2018.00004
+* Byszuk, J. (2020) The Voices of Doctor Who – how stylometry can be useful in revealing new information about TV series. *Digital Humanities Quarterly*, 14(4) [link](http://www.digitalhumanities.org/dhq/vol/14/4/000499/000499.html).
+* Byszuk, J., Woźniak, M., Kestemont, M., Leśniak, A., Łukasik, W., Šeļa, A. and Eder, M. (2020). Detecting direct speech in multilingual collection of 19th century novels. *Proceedings of the LREC 2020. Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2020)*. Marseille, pp. 100–04. [available here pp. 100-104](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf)
+* Franzini, G., Kestemont, M., Rotari, G., Jander, M., Ochab, J. K., Franzini, E., Byszuk, J., Rybicki, J. Attributing Authorship in the Noisy Digitized Correspondence of Jacob and Wilhelm Grimm. *Frontiers in Digital Humanities*, 5. 2018. https://doi.org/10.3389/fdigh.2018.00004
   
 ### Other
 * Byszuk, J. "Stylometry Expertise Conclusion: Assessing authorship of an anonymous Persian qasida" in: Khismatulin, A. "Amir Mu‘izzi Nishapuri. The Siyasat-nama/Siyar al-muluk: A Fabrication Ascribed to Nizam al-Mulk". The series: THE PERSIAN MIRRORS FOR PRINCES WRITTEN IN THE SALJUQ PERIOD: ORIGINALS AND FABRICATIONS (I). St. Petersburg: Peterburgskoe Vostokovedenie; Moscow: Sadra, 2020. pp. 176-178 [online access: Stylometry Expertise Conclusion on Assessing authorship of an anonymous Persian qasida](https://ijp.pan.pl/wp-content/uploads/2018/08/Byszuk-Stylometry-Expertise-Conclusion-on-Assessing-authorship-of-an-anonymous-Persian-qasida.pdf)
@@ -21,6 +21,8 @@ description: Publications and talks.
 
 ## Talks
 ### Invited talks
+* "Direct speech for multilingual corpora some problems and one possible solution", SIG_DLS Workshop: Tool Criticism 3.0. Present, past, and future methods in Digital Literary Stylistics, ADHO Special Interest Group for Digital Literary Studies, 20 VII 2020, online.
+* "Literary Studies: Textual analysis and stylometry with WebSty", CLARIN Café III CLARIN for Researchers, 8 VII 2020, online.
 * "Stylometry in textual analysis and beyond", Colloquium in Digital Cultural Heritage, 22 I 2020, Köln.
 * "AI in Computational Linguistics and Humanities", Giersch Symposium "AI for Science", 18-22 XI 2019, Frankfurt am Main.
   
