@@ -6,12 +6,15 @@ description: Publications and talks.
 ---
 ## Publications
 ### Papers
+* Idziak, I., Šeļa, A., Woźniak, M., Leśniak, A., Byszuk J. and Eder M. (2021) Scalable handwritten text recognition system for lexicographic sources of under-resourced languages and alphabets. International Conference on Computational Science Proceedings.
 * Byszuk, J. (2020) The Voices of Doctor Who – how stylometry can be useful in revealing new information about TV series. *Digital Humanities Quarterly*, 14(4) [link](http://www.digitalhumanities.org/dhq/vol/14/4/000499/000499.html).
 * Byszuk, J., Woźniak, M., Kestemont, M., Leśniak, A., Łukasik, W., Šeļa, A. and Eder, M. (2020). Detecting direct speech in multilingual collection of 19th century novels. *Proceedings of the LREC 2020. Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2020)*. Marseille, pp. 100–04. [available here pp. 100-104](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf)
 * Franzini, G., Kestemont, M., Rotari, G., Jander, M., Ochab, J. K., Franzini, E., Byszuk, J., Rybicki, J. Attributing Authorship in the Noisy Digitized Correspondence of Jacob and Wilhelm Grimm. *Frontiers in Digital Humanities*, 5. 2018. https://doi.org/10.3389/fdigh.2018.00004
   
 ### Other
+* Mischke, D. Choiński, M., Byszuk, J, Göbel, M. Network Analysis and Spatial Stylometry in American Drama Studies DH2020 Book of Abstracts, Ottawa, ADHO, 2020
 * Byszuk, J. "Stylometry Expertise Conclusion: Assessing authorship of an anonymous Persian qasida" in: Khismatulin, A. "Amir Mu‘izzi Nishapuri. The Siyasat-nama/Siyar al-muluk: A Fabrication Ascribed to Nizam al-Mulk". The series: THE PERSIAN MIRRORS FOR PRINCES WRITTEN IN THE SALJUQ PERIOD: ORIGINALS AND FABRICATIONS (I). St. Petersburg: Peterburgskoe Vostokovedenie; Moscow: Sadra, 2020. pp. 176-178 [online access: Stylometry Expertise Conclusion on Assessing authorship of an anonymous Persian qasida](https://ijp.pan.pl/wp-content/uploads/2018/08/Byszuk-Stylometry-Expertise-Conclusion-on-Assessing-authorship-of-an-anonymous-Persian-qasida.pdf)
+* Frontini, F., Brando C., Byszuk J., Galleron I., Santos D. & Stanković R. Named Entity Recognition for Distant Reading in ELTeC. CLARIN Annual Conference 2020 Proceedings, p. 37-41, (online).
 * A book review of Reading beyond the female: The relationship between perception of author gender and literary quality. In Socjolingiwistyka, 33. 2019. [(online)](https://socjolingwistyka.ijp.pan.pl/index.php/SOCJO/article/view/55/95)
 * Hernandez Lorenzo, L., Byszuk, J. Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina. In Digital Humanities 2019: Book of Abstracts. University of Utrecht.
 * Eder M., Byszuk, J. Feature Selection in Authorship Attribution: Ordering the Wordlist. In Digital Humanities 2019: Book of Abstracts. University of Utrecht.
@@ -21,6 +24,8 @@ description: Publications and talks.
 
 ## Talks
 ### Invited talks
+* "What can be measured with stylometry? On language, creativity and numbers.", Bielefeld colloquium “digital linguistics / computational linguistics”, 12 X 2021, Bielefeld.
+* "The Voices of Doctor Who – How Stylometry Can be Useful in Revealing New Information About TV Series", for the seminars of the Centre for Digital Humanities at the University of Groningen, 9 III 2021, online.
 * "Direct speech for multilingual corpora some problems and one possible solution", SIG_DLS Workshop: Tool Criticism 3.0. Present, past, and future methods in Digital Literary Stylistics, ADHO Special Interest Group for Digital Literary Studies, 20 VII 2020, online.
 * "Literary Studies: Textual analysis and stylometry with WebSty", CLARIN Café III CLARIN for Researchers, 8 VII 2020, online.
 * "Stylometry in textual analysis and beyond", Colloquium in Digital Cultural Heritage, 22 I 2020, Köln.
