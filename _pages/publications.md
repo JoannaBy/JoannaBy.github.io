@@ -7,10 +7,10 @@ description: Publications and talks.
 
 More recent information, as well as information in Polish, may be available on [my institutional website](https://ijp.pan.pl/pracownicy/joanna-byszuk/)
 ## Publications
-### Papers
+### Papers & chapters
 
-* **Šeļa, A., Nagy, B., Byszuk, J., Hernández-Lorenzo, L., Szemes, B. and Eder, M.** (forthcoming). From stage to page: language independent bootstrap measures of distinctiveness in fictional speech, [[pre-print](https://arxiv.org/abs/2301.05659)].
-
+* **Šeļa, A., Nagy, B., Byszuk, J., Hernández-Lorenzo, L., Szemes, B. and Eder, M.** (2024). From stage to page: language independent bootstrap measures of distinctiveness in fictional speech, W: M. Andersen and N Reiter (ed.) Computational Drama Analysis. Reflecting on Methods and Interpretations, pp. 149-166, De Gruyter[pre-print](https://arxiv.org/abs/2301.05659).  
+  
 * **Hernández-Lorenzo, L., and Byszuk J.** (2023). Challenging stylometry: the authorship of the baroque play La Segunda Celestina, _Digital Scholarship in the Humanities_, advance access: [https://doi.org/10.1093/llc/fqac063](https://doi.org/10.1093/llc/fqac063).
 
 * **Byszuk, J.** (2023). On Computers in text analysis. In: J. O'Sullivan (ed.), _The Bloomsbury Handbook to the Digital Humanities_, 159–68. London: Bloomsbury.
