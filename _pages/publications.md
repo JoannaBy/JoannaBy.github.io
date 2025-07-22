@@ -9,7 +9,7 @@ More recent information, as well as information in Polish, may be available on [
 ## Publications
 ### Papers & chapters
 
-* **Šeļa, A., Nagy, B., Byszuk, J., Hernández-Lorenzo, L., Szemes, B. and Eder, M.** (2024). From stage to page: language independent bootstrap measures of distinctiveness in fictional speech, W: M. Andersen and N Reiter (ed.) Computational Drama Analysis. Reflecting on Methods and Interpretations, pp. 149-166, De Gruyter [OA]([https://arxiv.org/abs/2301.05659](https://www.degruyterbrill.com/document/doi/10.1515/9783111071824-008/html)).  
+* **Šeļa, A., Nagy, B., Byszuk, J., Hernández-Lorenzo, L., Szemes, B. and Eder, M.** (2024). From stage to page: language independent bootstrap measures of distinctiveness in fictional speech, in: M. Andersen and N Reiter (ed.) Computational Drama Analysis. Reflecting on Methods and Interpretations, pp. 149-166, De Gruyter [OA](https://arxiv.org/abs/2301.05659).  
   
 * **Hernández-Lorenzo, L., and Byszuk J.** (2023). Challenging stylometry: the authorship of the baroque play La Segunda Celestina, _Digital Scholarship in the Humanities_, advance access: [https://doi.org/10.1093/llc/fqac063](https://doi.org/10.1093/llc/fqac063).
 
